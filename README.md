@@ -3,10 +3,10 @@
 
 Linux运行方法：
 
+```
 chmod +x ./serve
-
 ./serve
-
+```
 
 
 1.在 Windows 上Gitbash里面打 Windows 包（amd64）
